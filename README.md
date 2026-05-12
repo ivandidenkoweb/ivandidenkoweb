@@ -41,6 +41,8 @@
 ## 🎓 Certifications
 
 [![JavaScript Algorithms & Data Structures](./assets/FCC.png)](https://www.freecodecamp.org/certification/fccfdbb7516-6fb6-4171-bd9c-82a23cc2202c/javascript-v9)
+> Click the image to view. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
+
 ![Learn React](./assets/React1.png)
 ![Advanced React](./assets/React2.png)
 
