@@ -42,9 +42,9 @@
 
 ## 🎓 Certifications
 
-* 📜 [![JavaScript Algorithms & Data Structures](./assets/FCC.png)](https://www.freecodecamp.org/certification/fccfdbb7516-6fb6-4171-bd9c-82a23cc2202c/javascript-v9) — **freeCodeCamp**
-* 🚀 ![Learn React](./assets/React1.png) — **Scrimba**
-* ⚛️ ![Advanced React](./assets/React2.png) — **Scrimba**
+[![JavaScript Algorithms & Data Structures](./assets/FCC.png)](https://www.freecodecamp.org/certification/fccfdbb7516-6fb6-4171-bd9c-82a23cc2202c/javascript-v9)
+![Learn React](./assets/React1.png)
+![Advanced React](./assets/React2.png)
 
 ---
 
@@ -57,12 +57,16 @@
 
 ## 🛠 Tech Toolbox
 
+<div align="center">
+
 | Category | Tools |
 | :--- | :--- |
 | **Frontend** | `HTML5` `CSS3` `JavaScript` `React` `Vite` |
 | **Backend/Cloud** | `Firebase` `Netlify` |
 | **AI/Models** | `Gemini` `Groq` `HuggingFace` |
 | **Version Control** | `Git` `GitHub` |
+
+</div>
 
 ---
 
@@ -72,13 +76,6 @@
 - **Resilience & Focus**: Proven ability to maintain deep focus and deliver results under high-pressure environments.
 - **Extreme Discipline**: Mastering professional growth through 3-hour deep work blocks while maintaining military duties.
 - **Reliable Teamwork**: Strong sense of accountability and collaboration, forged through high-stakes team environments.
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandidenkoweb&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandidenkoweb&layout=compact&theme=radical)
 
 ---
 
@@ -115,7 +112,7 @@ Full keyboard accessibility with `aria-pressed`, `aria-live` regions throughout.
 
 ---
 
-### 🎬 [VanLife](https://github.com/ivandidenkoweb/vanlife) · [Live Demo ↗](https://ivandidenko-vanlife.netlify.app/)
+### 🚐 [VanLife](https://github.com/ivandidenkoweb/vanlife) · [Live Demo ↗](https://ivandidenko-vanlife.netlify.app/)
 > **React 19 · Firebase · React Icons · LocalStorage React · Router DOM 6**
 
 VanLife is a full-stack React application that enables users to browse and rent vans for their adventures.  
