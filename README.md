@@ -8,6 +8,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -38,13 +39,18 @@
 
 ## 🎓 Certifications
 
-[![Google AI Specialization](./assets/AI.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/V1C1LDNULAYT)
+<div align="center">
 
 [![JavaScript Algorithms & Data Structures](./assets/FCC.png)](https://www.freecodecamp.org/certification/fccfdbb7516-6fb6-4171-bd9c-82a23cc2202c/javascript-v9)
 > Click the clickable images above to view verifications. The links will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 ![Learn React](./assets/React1.png)
 ![Advanced React](./assets/React2.png)
+
+[![Google AI Specialization](./assets/AI.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/V1C1LDNULAYT)
+> Click the clickable images above to view verifications. The links will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
+
+</div>
 
 ---
 
@@ -79,13 +85,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandidenkoweb&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandidenkoweb&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -96,6 +95,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
