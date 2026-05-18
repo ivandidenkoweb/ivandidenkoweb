@@ -9,6 +9,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Integrations](https://img.shields.io/badge/AI%20Integrations-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)
 
 </div>
 
