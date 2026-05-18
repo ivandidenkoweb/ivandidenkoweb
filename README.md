@@ -19,9 +19,7 @@
 
 ### · Frontend Developer · 
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasia--telesnitskaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-telesnitskaya/) -->
 [![Telegram](https://img.shields.io/badge/Telegram-@ivandidenko-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ivandidenko)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-gespens.dev-blueviolet?style=for-the-badge&logo=firefox&logoColor=white)](https://gespens.dev) -->
 [![Email](https://img.shields.io/badge/Email-ivandidenkoweb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandidenkoweb@gmail.com)
 
 </div>
@@ -33,15 +31,17 @@
 - **Analytical DNA**: A mathematician at heart with a lifelong "tech-first" mindset. I don't just write code; I architect logical solutions.
 - **Resilience-Driven Growth**: Transitioned from 10 years in the service industry to Software Engineering while serving in the Armed Forces of Ukraine. This journey has forged elite **time management** and **deep focus** skills.
 - **Tech Stack**: Specialized in building modern web applications with **React**, **JavaScript (ES6+)**, and **Vite**.
-- **AI Integration**: Actively implementing **Gemini**, **Groq**, and **HuggingFace** APIs to build smarter, future-ready tools.
+- **AI Integration & Expertise**: Completed the **Google AI Specialization** and actively implementing **Gemini**, **Groq**, and **HuggingFace** APIs to build smarter, future-ready tools.
 - **Future Mission**: Seeking to contribute to **MilTech** innovations or join an international team to build complex, high-impact interfaces. Available for both remote and office-based roles.
 
 ---
 
 ## 🎓 Certifications
 
+[![Google AI Specialization](./assets/AI.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/V1C1LDNULAYT)
+
 [![JavaScript Algorithms & Data Structures](./assets/FCC.png)](https://www.freecodecamp.org/certification/fccfdbb7516-6fb6-4171-bd9c-82a23cc2202c/javascript-v9)
-> Click the image to view. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
+> Click the clickable images above to view verifications. The links will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 ![Learn React](./assets/React1.png)
 ![Advanced React](./assets/React2.png)
@@ -63,7 +63,7 @@
 | :--- | :--- |
 | **Frontend** | `HTML5` `CSS3` `JavaScript` `React` `Vite` |
 | **Backend/Cloud** | `Firebase` `Netlify` |
-| **AI/Models** | `Gemini` `Groq` `HuggingFace` |
+| **AI/Models** | `Google AI` `Gemini` `Groq` `HuggingFace` |
 | **Version Control** | `Git` `GitHub` |
 
 </div>
@@ -76,6 +76,28 @@
 - **Resilience & Focus**: Proven ability to maintain deep focus and deliver results under high-pressure environments.
 - **Extreme Discipline**: Mastering professional growth through 3-hour deep work blocks while maintaining military duties.
 - **Reliable Teamwork**: Strong sense of accountability and collaboration, forged through high-stakes team environments.
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandidenkoweb&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandidenkoweb&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
